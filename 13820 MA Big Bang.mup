@@ -1,0 +1,1156 @@
+{
+  "title": "13820 MA Big Bang",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Ca 5000 MA\nVores sol",
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "4600 MA\nJorden former sig",
+          "id": 7,
+          "ideas": {
+            "1": {
+              "title": "4500 MA\nMånen skabes",
+              "id": 8,
+              "ideas": {
+                "1": {
+                  "title": "3900 - 2500 MA\nFørste prokaryoter \n- Uden kerne",
+                  "id": 9,
+                  "ideas": {
+                    "1": {
+                      "title": "3000 MA\nFørste bakterier \n- (Cyanobakterier) laver fotosyntese og producerer Oxygen som affaldsstof",
+                      "id": 10,
+                      "ideas": {
+                        "1": {
+                          "title": "1850 MA\nEukaryoter \n- Med kerne",
+                          "id": 11,
+                          "ideas": {
+                            "1": {
+                              "title": "1200 MA\nFlercellede organismer \n- Røde alger",
+                              "id": 12,
+                              "ideas": {
+                                "1": {
+                                  "title": "600 MA\nOzon bliver dannet",
+                                  "id": 13,
+                                  "ideas": {
+                                    "1": {
+                                      "title": "580 - 500 MA\nFørste Leddyr\n- Ormefamilien",
+                                      "id": 14,
+                                      "ideas": {
+                                        "1": {
+                                          "title": "560 MA\nFørste Svampe i vand",
+                                          "id": 16,
+                                          "ideas": {
+                                            "1": {
+                                              "title": "550 MA\nFørste anemoner",
+                                              "id": 17,
+                                              "ideas": {
+                                                "1": {
+                                                  "title": "485 MA\nFørste hvirveldyr",
+                                                  "id": 18,
+                                                  "ideas": {
+                                                    "1": {
+                                                      "title": "434 MA\nFørste planter og svampe i land",
+                                                      "id": 19,
+                                                      "ideas": {
+                                                        "1": {
+                                                          "title": "430 MA\nFørste paddeforekomst",
+                                                          "id": 20,
+                                                          "ideas": {
+                                                            "1": {
+                                                              "title": "254,1 MA\nPerm - Trias udslettelsen\n",
+                                                              "id": 21,
+                                                              "ideas": {
+                                                                "1": {
+                                                                  "title": "225 MA\nFørste dinosauer og pattedyr",
+                                                                  "id": 22,
+                                                                  "ideas": {
+                                                                    "1": {
+                                                                      "title": "200 MA\nFørste viruser",
+                                                                      "id": 23,
+                                                                      "ideas": {
+                                                                        "1": {
+                                                                          "title": "100 MA\nFørste bier",
+                                                                          "id": 24,
+                                                                          "ideas": {
+                                                                            "1": {
+                                                                              "title": "80 MA\nFørste myrer",
+                                                                              "id": 25,
+                                                                              "ideas": {
+                                                                                "1": {
+                                                                                  "title": "55 MA\nFørste store blanding af fugle\nFørste hvale\nFørste gnavere\n",
+                                                                                  "id": 26,
+                                                                                  "ideas": {
+                                                                                    "1": {
+                                                                                      "title": "52 MA\nFørste flagermus",
+                                                                                      "id": 27,
+                                                                                      "ideas": {
+                                                                                        "1": {
+                                                                                          "title": "40 MA\nFørste sommerfugle",
+                                                                                          "id": 28,
+                                                                                          "ideas": {
+                                                                                            "1": {
+                                                                                              "title": "35 MA\nFørste moderne pattedyrsformer\nFeks. hunde",
+                                                                                              "id": 29,
+                                                                                              "ideas": {
+                                                                                                "1": {
+                                                                                                  "title": "15 MA\nFørste Mastodonter",
+                                                                                                  "id": 30,
+                                                                                                  "ideas": {
+                                                                                                    "1": {
+                                                                                                      "title": "350 ka\nEvolution af neandertaler",
+                                                                                                      "id": 31,
+                                                                                                      "ideas": {
+                                                                                                        "1": {
+                                                                                                          "title": "Muskler",
+                                                                                                          "id": 64,
+                                                                                                          "ideas": {},
+                                                                                                          "attr": {
+                                                                                                            "style": {
+                                                                                                              "background": "#ff00ff"
+                                                                                                            }
+                                                                                                          }
+                                                                                                        },
+                                                                                                        "2": {
+                                                                                                          "title": "Skelet",
+                                                                                                          "id": 65,
+                                                                                                          "attr": {
+                                                                                                            "style": {
+                                                                                                              "background": "#ff00ff"
+                                                                                                            }
+                                                                                                          },
+                                                                                                          "ideas": {
+                                                                                                            "1": {
+                                                                                                              "title": "Skelet og muskel",
+                                                                                                              "id": 67,
+                                                                                                              "attr": {
+                                                                                                                "style": {
+                                                                                                                  "background": "#00ccff"
+                                                                                                                },
+                                                                                                                "attachment": {
+                                                                                                                  "contentType": "text/html",
+                                                                                                                  "content": "<p class=\"Textbody\" align=\"center\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;\ntext-align:center;line-height:112%\"><a name=\"docs-internal-guid-17f31ceb-a22f-a8c2-52\"></a><span style=\"font-size:11.0pt;\nmso-bidi-font-size:12.0pt;line-height:112%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;\nmso-bidi-font-family:Mangal;color:black\">Naturfagsundervisning d.14/5-2013<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Dagsorden:<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Ordforklaring-\nfra engelsk til dansk + forklaring<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">hydroskelet:\nFire hovedgrupper af dyr med hydroskelet.<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">cnidarians:\nnældecelledyr.<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Flatworms:\nfladorme<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Nematodes:\nrundorme (uleddelt)<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Annelids:\nledorme (regnorme)<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Holdet\nbliver delt op i 3 grupper<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">de 3\ngrupper laver opgaver først om skeletter og dernæst om muskler<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><br>\n<br>\n<br>\n<!--[if !supportLineBreakNewLine]--><br>\n<!--[endif]--><o:p></o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">gode\nundervisnings links:<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">video\nlinks til skelet:http:<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">//</span><a href=\"http://www.youtube.com/watch?v=7vLAE_P_u_4\"><span style=\"font-size:11.0pt;\nmso-bidi-font-size:12.0pt;line-height:112%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;\nmso-bidi-font-family:Mangal;color:#1155CC\">www.youtube.com/watch?v=7vLAE_P_u_4</span></a><o:p></o:p></p>\n\n<p class=\"Textbody\"><br>\n<br>\n<!--[if !supportLineBreakNewLine]--><br>\n<!--[endif]--><o:p></o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">video\nlinks til muskler:<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<!--[if !supportLineBreakNewLine]--><br>\n<!--[endif]--><o:p></o:p></p>\n\n<p class=\"Textbody\" align=\"center\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;\ntext-align:center;line-height:112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:\n12.0pt;line-height:112%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:\nMangal;color:black\">SKELETTET<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">gruppe\n1 &nbsp;Emil, Jens, jeppe<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">exo:<o:p></o:p></span></p>\n\n<p class=\"Textbody\" align=\"center\" style=\"margin-bottom:10.0pt;text-align:center;\nline-height:112%\"><span style=\"font-size:26.0pt;mso-bidi-font-size:12.0pt;\nline-height:112%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;\ncolor:black\">Exo-skellet<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:10.0pt;line-height:112%\"><span style=\"font-size:14.0pt;mso-bidi-font-size:12.0pt;line-height:112%;font-family:\n&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Se filmen</span><a href=\"http://www.youtube.com/watch?v=6z_lJoYbdAc\"><span style=\"color: black;\"> </span></a><a href=\"http://www.youtube.com/watch?v=6z_lJoYbdAc\"><span style=\"font-size:14.0pt;\nmso-bidi-font-size:12.0pt;line-height:112%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;\nmso-bidi-font-family:Mangal;color:blue\">http://www.youtube.com/watch?v=6z_lJoYbdAc</span></a><o:p></o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:10.0pt;line-height:112%\"><span style=\"font-size:14.0pt;mso-bidi-font-size:12.0pt;line-height:112%;font-family:\n&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Svar på\nspørgsmålene<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:10.0pt;line-height:112%\"><span style=\"font-size:14.0pt;mso-bidi-font-size:12.0pt;line-height:112%;font-family:\n&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">-Hvad er et\nexo-skellet ?<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:10.0pt;line-height:112%\"><span style=\"font-size:14.0pt;mso-bidi-font-size:12.0pt;line-height:112%;font-family:\n&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">-Hvilken dyr har\nexo-skellet ?<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:10.0pt;line-height:112%\"><span style=\"font-size:14.0pt;mso-bidi-font-size:12.0pt;line-height:112%;font-family:\n&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">-Hvad er\nfordelene ved exo-skellet ?<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:10.0pt;line-height:112%\"><span style=\"font-size:14.0pt;mso-bidi-font-size:12.0pt;line-height:112%;font-family:\n&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">-Hvad er\nulemperne ved exo-skellet ?<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:10.0pt;line-height:112%\"><span style=\"font-size:14.0pt;mso-bidi-font-size:12.0pt;line-height:112%;font-family:\n&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">-Hvor lever der\ndyr med exo-skellet ?<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:10.0pt;line-height:112%\"><span style=\"font-size:14.0pt;mso-bidi-font-size:12.0pt;line-height:112%;font-family:\n&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">-Største og\nmindste dyr med exo-skellet ?<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:10.0pt;line-height:112%\"><span style=\"font-size:14.0pt;mso-bidi-font-size:12.0pt;line-height:112%;font-family:\n&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Fang mindst 5 dyr\nmed exo-skellet.<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:10.0pt;line-height:112%\"><span style=\"font-size:14.0pt;mso-bidi-font-size:12.0pt;line-height:112%;font-family:\n&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Beskriv og tegn,\nsærlige kendetegn ved dyrerne.<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:10.0pt;line-height:112%\"><span style=\"font-size:14.0pt;mso-bidi-font-size:12.0pt;line-height:112%;font-family:\n&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Forbered oplæg\nfor klassen på 5 minutter.<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:10.0pt;line-height:112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;font-family:\n&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Exoskelet til\nmennesker?<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><br>\n<br>\n<br>\n<br>\n<br>\n<!--[if !supportLineBreakNewLine]--><br>\n<!--[endif]--><o:p></o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">gruppe\n2 &nbsp;- Signe, Jeppe og Louise<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">endo:<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">- Det\ninderste skelet<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">-\nSkelettet udgør ca. 8% af legemsvægten hos en yngre voksen mand, mindre hos\nkvinden, men med store individuelle forskelle.<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><a href=\"http://www.denstoredanske.dk/Krop%2C_psyke_og_sundhed/Sundhedsvidenskab/Sammenlignende_anatomi_og_fysiologi/skelet/skelet_%28Hvirveldyr_-_Hviveldyrskelettet%29\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;font-family:\n&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:#1155CC\">http://www.denstoredanske.dk/Krop%2c_psyke_og_sundhed/Sundhedsvidenskab/Sammenlignende_anatomi_og_fysiologi/skelet/skelet_(Hvirveldyr_-_Hviveldyrskelettet)</span></a><o:p></o:p></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Hvor\nmange knogler består et menneskes skelet normalt af?<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Hvilke\ner de vigtigste?<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Hvor\nmange ribben? Og hvad er ribbenenes funktion?<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Hvordan\ner et hvirveldyrs skelet bygget op?<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Beskriv\nforskellene ved de forskellige hvirveldyr?<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Hvordan\ndannes skelettet? Og hvad består det af?<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><br>\n<br>\n<br>\n<br>\n<!--[if !supportLineBreakNewLine]--><br>\n<!--[endif]--><o:p></o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">gruppe\n3 Sonja, Per, Andreas<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">hydro:\nDet vandede skelet. Nældecelledyr har hydrostatisk skelet : Gopler, søanemoner,\nkoraler.Derudover har ledorme (regnorme), rundorme,<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">4\ngrupper, cnidaria, nematode, annelid, flatworm.<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Alle\narbejder med peristaltisk bevægelse.<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Video\naf en fladorm i bevægelse: </span><a href=\"http://www.youtube.com/watch?v=tfcMCH8nloA\"><span style=\"font-size:11.0pt;\nmso-bidi-font-size:12.0pt;line-height:112%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;\nmso-bidi-font-family:Mangal;color:#1155CC\">http://www.youtube.com/watch?v=tfcMCH8nloA</span></a><o:p></o:p></p>\n\n<p class=\"Textbody\"><br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<!--[if !supportLineBreakNewLine]--><br>\n<!--[endif]--><o:p></o:p></p>\n\n<p class=\"Textbody\" align=\"center\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;\ntext-align:center;line-height:112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:\n12.0pt;line-height:112%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:\nMangal;color:black\">MUSKLER<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">gruppe\n1 Emil, Jens, jeppe<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Hjerte:<o:p></o:p></span></p>\n\n<p class=\"Textbody\" align=\"center\" style=\"margin-bottom:10.0pt;text-align:center;\nline-height:112%\"><span style=\"font-size:15.5pt;mso-bidi-font-size:12.0pt;\nline-height:112%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;\ncolor:black\">Hjertet<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:10.0pt;line-height:112%\"><span style=\"font-size:14.0pt;mso-bidi-font-size:12.0pt;line-height:112%;font-family:\n&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Se film på you\ntube</span><a href=\"http://www.youtube.com/watch?v=RUGQt0Aw2qM\"><span style=\"color: black;\"> </span></a><a href=\"http://www.youtube.com/watch?v=RUGQt0Aw2qM\"><span style=\"font-size:14.0pt;\nmso-bidi-font-size:12.0pt;line-height:112%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;\nmso-bidi-font-family:Mangal;color:blue\">http://www.youtube.com/watch?v=RUGQt0Aw2qM</span></a><o:p></o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:10.0pt;line-height:112%\"><span style=\"font-size:14.0pt;mso-bidi-font-size:12.0pt;line-height:112%;font-family:\n&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Svar på\nspørgsmålene.<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:112%\"><span style=\"font-size:14.0pt;mso-bidi-font-size:12.0pt;line-height:112%;font-family:\n&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">-\n&nbsp;&nbsp;&nbsp;&nbsp; Hvad gør hjertet?<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:112%\"><span style=\"font-size:14.0pt;mso-bidi-font-size:12.0pt;line-height:112%;font-family:\n&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">-\n&nbsp;&nbsp;&nbsp;&nbsp; Har alle levende organismer hjerte?<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:112%\"><span style=\"font-size:14.0pt;mso-bidi-font-size:12.0pt;line-height:112%;font-family:\n&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">-\n&nbsp;&nbsp;&nbsp;&nbsp; Hvad er fordelen ved at havde et hjerte, og hvad er\nulemperne?<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:112%\"><span style=\"font-size:14.0pt;mso-bidi-font-size:12.0pt;line-height:112%;font-family:\n&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">-\n&nbsp;&nbsp;&nbsp;&nbsp; Hvor mange forskellige typer hjerter findes der?<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-top:0cm;margin-right:0cm;margin-bottom:0cm;\nmargin-left:36.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:112%\"><span style=\"font-size:14.0pt;mso-bidi-font-size:12.0pt;line-height:112%;font-family:\n&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">-\n&nbsp;&nbsp;&nbsp;&nbsp; Hvor stort er et menneske hjerte?<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;\nmargin-left:36.0pt;text-indent:-18.0pt;line-height:112%\"><span style=\"font-size:14.0pt;mso-bidi-font-size:12.0pt;line-height:112%;font-family:\n&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">-\n&nbsp;&nbsp;&nbsp;&nbsp; Find ud af hvilket dyr der har det største og mindste\nhjerte?<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;\nmargin-left:18.0pt;line-height:112%\"><span style=\"font-size:14.0pt;mso-bidi-font-size:\n12.0pt;line-height:112%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:\nMangal;color:black\">Disseker et svine hjerte. (ligner et menneskehjerte)<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-top:0cm;margin-right:0cm;margin-bottom:10.0pt;\nmargin-left:18.0pt;line-height:112%\"><span style=\"font-size:14.0pt;mso-bidi-font-size:\n12.0pt;line-height:112%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:\nMangal;color:black\">Tegn og beskriv hjertes funktion i kredsløbet.<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<br>\n<!--[if !supportLineBreakNewLine]--><br>\n<!--[endif]--><o:p></o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">gruppe\n2 Signe, Jeppe og Louise<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">indvendig/\nglatte muskler:<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><a href=\"http://www.denstoredanske.dk/Krop,_psyke_og_sundhed/Sundhedsvidenskab/Cellebiologi_og_almen_histologi/muskel\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;font-family:\n&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:#1155CC\">http://www.denstoredanske.dk/Krop,_psyke_og_sundhed/Sundhedsvidenskab/Cellebiologi_og_almen_histologi/muskel</span></a><o:p></o:p></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">De\nglatte muskler er vigtige bestanddele af de indre organer, de sørger for indre\ntransport og bevægelse. De findes udenom spiserøret, mavesækken, tarmene,\nurinblæren, blodkarrene, livmoderen og bronkierne. Ved sammentrækninger kan de\nglatte muskler regulere størrelsen på rørene og bestemme mængden af ilt eller\nblod der skal igennem.<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Hvad\ner en glat muskel?<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Hvilke\nfunktioner har de?<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Hvor\ni kroppen findes de?<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Hvordan\nstyres de?<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><br>\n<br>\n<br>\n<br>\n<!--[if !supportLineBreakNewLine]--><br>\n<!--[endif]--><o:p></o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">gruppe\n3 Sonja, Per, Andreas<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">almindelige/tværstribede:<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Denne\ntype muskler er kendetegnende ved at vi kan styre dem bevidst, men de kan\nfaktisk også sammentrække sig ubevidst! -kom med eksempler på dette<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Eleverne\ninddeles i grupper og tildeles forskellige kropsdele at arbejde med: Arme, ben\ntorso for, torso bag. Mærk på din egen krop på det tildelte område og gæt på\nhvor mange muskler vi selv har kontrol over. Undersøg bagefter hvor mange\nmuskler vi egentlig har.<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">til\neleven: Lav en video der illustrerer hvilke muskler der bruges til at lave\nbestemte bevægelser<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Hvordan\ner en tværstribede muskel opbygget?<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Hvad\nsker der når man styrketræner?<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Hvem\ni gruppen har flest muskler?<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><br>\n<!--[if !supportLineBreakNewLine]--><br>\n<!--[endif]--><o:p></o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:14.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Del 3\n- Kropslige øvelser<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Aerob\ntræning.<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Længervarende\ntræning, træning af iltoptagelse i musklerne.<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">fx\nlunter DfL rundt 5 min.<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Styrke\nmax test.<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">fx\nbænkpres, armhævning, eller hvad folk kan max, dvs een ikke flere gentagelser<o:p></o:p></span></p>\n\n<p class=\"Textbody\"><o:p>&nbsp;</o:p></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">Anaerob\ntræning. sukkeroptagende muskler, sprint.<o:p></o:p></span></p>\n\n<p class=\"Textbody\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\n112%\"><span style=\"font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:112%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-bidi-font-family:Mangal;color:black\">øvelser:\nDet gyldne skind, nat &amp; dag, politiets hurtighedsøvelse.<o:p></o:p></span></p>\n\n<p class=\"Standard\"><o:p>&nbsp;</o:p></p>"
+                                                                                                                }
+                                                                                                              }
+                                                                                                            }
+                                                                                                          }
+                                                                                                        },
+                                                                                                        "3": {
+                                                                                                          "title": "Emne",
+                                                                                                          "id": 68,
+                                                                                                          "attr": {
+                                                                                                            "style": {
+                                                                                                              "background": "#ff00ff"
+                                                                                                            }
+                                                                                                          }
+                                                                                                        },
+                                                                                                        "4": {
+                                                                                                          "title": "Emne",
+                                                                                                          "id": 70,
+                                                                                                          "attr": {
+                                                                                                            "style": {
+                                                                                                              "background": "#ff00ff"
+                                                                                                            }
+                                                                                                          }
+                                                                                                        }
+                                                                                                      },
+                                                                                                      "attr": {
+                                                                                                        "style": {
+                                                                                                          "background": "#c0c0c0"
+                                                                                                        }
+                                                                                                      }
+                                                                                                    },
+                                                                                                    "2": {
+                                                                                                      "title": "Emne",
+                                                                                                      "id": 71,
+                                                                                                      "attr": {
+                                                                                                        "style": {
+                                                                                                          "background": "#ff00ff"
+                                                                                                        }
+                                                                                                      }
+                                                                                                    },
+                                                                                                    "3": {
+                                                                                                      "title": "Emne",
+                                                                                                      "id": 72,
+                                                                                                      "attr": {
+                                                                                                        "style": {
+                                                                                                          "background": "#ff00ff"
+                                                                                                        }
+                                                                                                      }
+                                                                                                    },
+                                                                                                    "0.5": {
+                                                                                                      "title": "Emne",
+                                                                                                      "id": 75,
+                                                                                                      "attr": {
+                                                                                                        "style": {
+                                                                                                          "background": "#ff00ff"
+                                                                                                        }
+                                                                                                      }
+                                                                                                    },
+                                                                                                    "0.25": {
+                                                                                                      "title": "Emne",
+                                                                                                      "id": 73,
+                                                                                                      "attr": {
+                                                                                                        "style": {
+                                                                                                          "background": "#ff00ff"
+                                                                                                        }
+                                                                                                      }
+                                                                                                    }
+                                                                                                  },
+                                                                                                  "attr": {
+                                                                                                    "style": {
+                                                                                                      "background": "#c0c0c0"
+                                                                                                    }
+                                                                                                  }
+                                                                                                },
+                                                                                                "2": {
+                                                                                                  "title": "Emne",
+                                                                                                  "id": 77,
+                                                                                                  "attr": {
+                                                                                                    "style": {
+                                                                                                      "background": "#ff00ff"
+                                                                                                    }
+                                                                                                  }
+                                                                                                },
+                                                                                                "3": {
+                                                                                                  "title": "Emne",
+                                                                                                  "id": 78,
+                                                                                                  "attr": {
+                                                                                                    "style": {
+                                                                                                      "background": "#ff00ff"
+                                                                                                    }
+                                                                                                  }
+                                                                                                },
+                                                                                                "0.5": {
+                                                                                                  "title": "Emne",
+                                                                                                  "id": 81,
+                                                                                                  "attr": {
+                                                                                                    "style": {
+                                                                                                      "background": "#ff00ff"
+                                                                                                    }
+                                                                                                  }
+                                                                                                },
+                                                                                                "0.25": {
+                                                                                                  "title": "Emne",
+                                                                                                  "id": 79,
+                                                                                                  "ideas": {},
+                                                                                                  "attr": {
+                                                                                                    "style": {
+                                                                                                      "background": "#ff00ff"
+                                                                                                    }
+                                                                                                  }
+                                                                                                }
+                                                                                              }
+                                                                                            },
+                                                                                            "2": {
+                                                                                              "title": "Emne",
+                                                                                              "id": 82,
+                                                                                              "attr": {
+                                                                                                "style": {
+                                                                                                  "background": "#ff00ff"
+                                                                                                }
+                                                                                              }
+                                                                                            },
+                                                                                            "3": {
+                                                                                              "title": "Emne",
+                                                                                              "id": 83,
+                                                                                              "attr": {
+                                                                                                "style": {
+                                                                                                  "background": "#ff00ff"
+                                                                                                }
+                                                                                              }
+                                                                                            },
+                                                                                            "0.5": {
+                                                                                              "title": "Emne",
+                                                                                              "id": 85,
+                                                                                              "attr": {
+                                                                                                "style": {
+                                                                                                  "background": "#ff00ff"
+                                                                                                }
+                                                                                              }
+                                                                                            },
+                                                                                            "0.25": {
+                                                                                              "title": "Emne",
+                                                                                              "id": 84,
+                                                                                              "attr": {
+                                                                                                "style": {
+                                                                                                  "background": "#ff00ff"
+                                                                                                }
+                                                                                              }
+                                                                                            }
+                                                                                          }
+                                                                                        },
+                                                                                        "4": {
+                                                                                          "title": "Emne",
+                                                                                          "id": 88,
+                                                                                          "attr": {
+                                                                                            "style": {
+                                                                                              "background": "#ff00ff"
+                                                                                            }
+                                                                                          }
+                                                                                        },
+                                                                                        "5": {
+                                                                                          "title": "Emne",
+                                                                                          "id": 89,
+                                                                                          "attr": {
+                                                                                            "style": {
+                                                                                              "background": "#ff00ff"
+                                                                                            }
+                                                                                          }
+                                                                                        },
+                                                                                        "0.5": {
+                                                                                          "title": "Emne",
+                                                                                          "id": 86,
+                                                                                          "attr": {
+                                                                                            "style": {
+                                                                                              "background": "#ff00ff"
+                                                                                            }
+                                                                                          }
+                                                                                        },
+                                                                                        "0.25": {
+                                                                                          "title": "Emne",
+                                                                                          "id": 87,
+                                                                                          "attr": {
+                                                                                            "style": {
+                                                                                              "background": "#ff00ff"
+                                                                                            }
+                                                                                          }
+                                                                                        }
+                                                                                      }
+                                                                                    },
+                                                                                    "4": {
+                                                                                      "title": "Emne",
+                                                                                      "id": 92,
+                                                                                      "attr": {
+                                                                                        "style": {
+                                                                                          "background": "#ff00ff"
+                                                                                        }
+                                                                                      }
+                                                                                    },
+                                                                                    "5": {
+                                                                                      "title": "Emne",
+                                                                                      "id": 93,
+                                                                                      "attr": {
+                                                                                        "style": {
+                                                                                          "background": "#ff00ff"
+                                                                                        }
+                                                                                      }
+                                                                                    },
+                                                                                    "0.5": {
+                                                                                      "title": "Emne",
+                                                                                      "id": 90,
+                                                                                      "attr": {
+                                                                                        "style": {
+                                                                                          "background": "#ff00ff"
+                                                                                        }
+                                                                                      }
+                                                                                    },
+                                                                                    "0.25": {
+                                                                                      "title": "Emne",
+                                                                                      "id": 91,
+                                                                                      "attr": {
+                                                                                        "style": {
+                                                                                          "background": "#ff00ff"
+                                                                                        }
+                                                                                      }
+                                                                                    }
+                                                                                  }
+                                                                                },
+                                                                                "4": {
+                                                                                  "title": "Emne",
+                                                                                  "id": 96,
+                                                                                  "attr": {
+                                                                                    "style": {
+                                                                                      "background": "#ff00ff"
+                                                                                    }
+                                                                                  }
+                                                                                },
+                                                                                "5": {
+                                                                                  "title": "Emne",
+                                                                                  "id": 97,
+                                                                                  "attr": {
+                                                                                    "style": {
+                                                                                      "background": "#ff00ff"
+                                                                                    }
+                                                                                  }
+                                                                                },
+                                                                                "0.5": {
+                                                                                  "title": "Emne",
+                                                                                  "id": 94,
+                                                                                  "attr": {
+                                                                                    "style": {
+                                                                                      "background": "#ff00ff"
+                                                                                    }
+                                                                                  }
+                                                                                },
+                                                                                "0.25": {
+                                                                                  "title": "Emne",
+                                                                                  "id": 95,
+                                                                                  "attr": {
+                                                                                    "style": {
+                                                                                      "background": "#ff00ff"
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            },
+                                                                            "2": {
+                                                                              "title": "Emne",
+                                                                              "id": 98,
+                                                                              "attr": {
+                                                                                "style": {
+                                                                                  "background": "#ff00ff"
+                                                                                }
+                                                                              }
+                                                                            },
+                                                                            "3": {
+                                                                              "title": "Emne",
+                                                                              "id": 99,
+                                                                              "attr": {
+                                                                                "style": {
+                                                                                  "background": "#ff00ff"
+                                                                                }
+                                                                              }
+                                                                            },
+                                                                            "0.5": {
+                                                                              "title": "Emne",
+                                                                              "id": 101,
+                                                                              "attr": {
+                                                                                "style": {
+                                                                                  "background": "#ff00ff"
+                                                                                }
+                                                                              }
+                                                                            },
+                                                                            "0.25": {
+                                                                              "title": "Emne",
+                                                                              "id": 100,
+                                                                              "attr": {
+                                                                                "style": {
+                                                                                  "background": "#ff00ff"
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        },
+                                                                        "2": {
+                                                                          "title": "Emne",
+                                                                          "id": 102,
+                                                                          "attr": {
+                                                                            "style": {
+                                                                              "background": "#ff00ff"
+                                                                            }
+                                                                          }
+                                                                        },
+                                                                        "3": {
+                                                                          "title": "Emne",
+                                                                          "id": 103,
+                                                                          "attr": {
+                                                                            "style": {
+                                                                              "background": "#ff00ff"
+                                                                            }
+                                                                          }
+                                                                        },
+                                                                        "0.5": {
+                                                                          "title": "Emne",
+                                                                          "id": 105,
+                                                                          "attr": {
+                                                                            "style": {
+                                                                              "background": "#ff00ff"
+                                                                            }
+                                                                          }
+                                                                        },
+                                                                        "0.25": {
+                                                                          "title": "Emne",
+                                                                          "id": 104,
+                                                                          "attr": {
+                                                                            "style": {
+                                                                              "background": "#ff00ff"
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    },
+                                                                    "4": {
+                                                                      "title": "Emne",
+                                                                      "id": 108,
+                                                                      "attr": {
+                                                                        "style": {
+                                                                          "background": "#ff00ff"
+                                                                        }
+                                                                      }
+                                                                    },
+                                                                    "5": {
+                                                                      "title": "Emne",
+                                                                      "id": 109,
+                                                                      "attr": {
+                                                                        "style": {
+                                                                          "background": "#ff00ff"
+                                                                        }
+                                                                      }
+                                                                    },
+                                                                    "0.5": {
+                                                                      "title": "Emne",
+                                                                      "id": 106,
+                                                                      "attr": {
+                                                                        "style": {
+                                                                          "background": "#ff00ff"
+                                                                        }
+                                                                      }
+                                                                    },
+                                                                    "0.25": {
+                                                                      "title": "Emne",
+                                                                      "id": 107,
+                                                                      "attr": {
+                                                                        "style": {
+                                                                          "background": "#ff00ff"
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                },
+                                                                "4": {
+                                                                  "title": "Emne",
+                                                                  "id": 112,
+                                                                  "attr": {
+                                                                    "style": {
+                                                                      "background": "#ff00ff"
+                                                                    }
+                                                                  }
+                                                                },
+                                                                "5": {
+                                                                  "title": "Emne",
+                                                                  "id": 113,
+                                                                  "attr": {
+                                                                    "style": {
+                                                                      "background": "#ff00ff"
+                                                                    }
+                                                                  }
+                                                                },
+                                                                "0.5": {
+                                                                  "title": "Emne",
+                                                                  "id": 110,
+                                                                  "attr": {
+                                                                    "style": {
+                                                                      "background": "#ff00ff"
+                                                                    }
+                                                                  }
+                                                                },
+                                                                "0.25": {
+                                                                  "title": "Emne",
+                                                                  "id": 111,
+                                                                  "attr": {
+                                                                    "style": {
+                                                                      "background": "#ff00ff"
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            },
+                                                            "4": {
+                                                              "title": "Emne",
+                                                              "id": 116,
+                                                              "attr": {
+                                                                "style": {
+                                                                  "background": "#ff00ff"
+                                                                }
+                                                              }
+                                                            },
+                                                            "5": {
+                                                              "title": "Emne",
+                                                              "id": 117,
+                                                              "attr": {
+                                                                "style": {
+                                                                  "background": "#ff00ff"
+                                                                }
+                                                              }
+                                                            },
+                                                            "0.5": {
+                                                              "title": "Emne",
+                                                              "id": 114,
+                                                              "attr": {
+                                                                "style": {
+                                                                  "background": "#ff00ff"
+                                                                }
+                                                              }
+                                                            },
+                                                            "0.25": {
+                                                              "title": "Emne",
+                                                              "id": 115,
+                                                              "attr": {
+                                                                "style": {
+                                                                  "background": "#ff00ff"
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        },
+                                                        "4": {
+                                                          "title": "Emne",
+                                                          "id": 120,
+                                                          "attr": {
+                                                            "style": {
+                                                              "background": "#ff00ff"
+                                                            }
+                                                          }
+                                                        },
+                                                        "5": {
+                                                          "title": "Emne",
+                                                          "id": 121,
+                                                          "attr": {
+                                                            "style": {
+                                                              "background": "#ff00ff"
+                                                            }
+                                                          }
+                                                        },
+                                                        "0.5": {
+                                                          "title": "Emne",
+                                                          "id": 118,
+                                                          "attr": {
+                                                            "style": {
+                                                              "background": "#ff00ff"
+                                                            }
+                                                          }
+                                                        },
+                                                        "0.25": {
+                                                          "title": "Emne",
+                                                          "id": 119,
+                                                          "attr": {
+                                                            "style": {
+                                                              "background": "#ff00ff"
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    },
+                                                    "4": {
+                                                      "title": "Emne",
+                                                      "id": 124,
+                                                      "attr": {
+                                                        "style": {
+                                                          "background": "#ff00ff"
+                                                        }
+                                                      }
+                                                    },
+                                                    "5": {
+                                                      "title": "Emne",
+                                                      "id": 125,
+                                                      "attr": {
+                                                        "style": {
+                                                          "background": "#ff00ff"
+                                                        }
+                                                      }
+                                                    },
+                                                    "0.5": {
+                                                      "title": "Emne",
+                                                      "id": 122,
+                                                      "attr": {
+                                                        "style": {
+                                                          "background": "#ff00ff"
+                                                        }
+                                                      }
+                                                    },
+                                                    "0.25": {
+                                                      "title": "Emne",
+                                                      "id": 123,
+                                                      "attr": {
+                                                        "style": {
+                                                          "background": "#ff00ff"
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                },
+                                                "4": {
+                                                  "title": "Emne",
+                                                  "id": 128,
+                                                  "attr": {
+                                                    "style": {
+                                                      "background": "#ff00ff"
+                                                    }
+                                                  }
+                                                },
+                                                "5": {
+                                                  "title": "Emne",
+                                                  "id": 129,
+                                                  "attr": {
+                                                    "style": {
+                                                      "background": "#ff00ff"
+                                                    }
+                                                  }
+                                                },
+                                                "0.5": {
+                                                  "title": "Emne",
+                                                  "id": 126,
+                                                  "attr": {
+                                                    "style": {
+                                                      "background": "#ff00ff"
+                                                    }
+                                                  }
+                                                },
+                                                "0.25": {
+                                                  "title": "Emne",
+                                                  "id": 127,
+                                                  "attr": {
+                                                    "style": {
+                                                      "background": "#ff00ff"
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            "4": {
+                                              "title": "Emne",
+                                              "id": 132,
+                                              "attr": {
+                                                "style": {
+                                                  "background": "#ff00ff"
+                                                }
+                                              }
+                                            },
+                                            "5": {
+                                              "title": "Emne",
+                                              "id": 133,
+                                              "attr": {
+                                                "style": {
+                                                  "background": "#ff00ff"
+                                                }
+                                              }
+                                            },
+                                            "0.5": {
+                                              "title": "Emne",
+                                              "id": 130,
+                                              "attr": {
+                                                "style": {
+                                                  "background": "#ff00ff"
+                                                }
+                                              }
+                                            },
+                                            "0.25": {
+                                              "title": "Emne",
+                                              "id": 131,
+                                              "attr": {
+                                                "style": {
+                                                  "background": "#ff00ff"
+                                                }
+                                              }
+                                            }
+                                          }
+                                        },
+                                        "4": {
+                                          "title": "Emne",
+                                          "id": 136,
+                                          "attr": {
+                                            "style": {
+                                              "background": "#ff00ff"
+                                            }
+                                          }
+                                        },
+                                        "5": {
+                                          "title": "Emne",
+                                          "id": 137,
+                                          "ideas": {},
+                                          "attr": {
+                                            "style": {
+                                              "background": "#ff00ff"
+                                            }
+                                          }
+                                        },
+                                        "0.5": {
+                                          "title": "Emne",
+                                          "id": 134,
+                                          "attr": {
+                                            "style": {
+                                              "background": "#ff00ff"
+                                            }
+                                          }
+                                        },
+                                        "0.25": {
+                                          "title": "Emne",
+                                          "id": 135,
+                                          "attr": {
+                                            "style": {
+                                              "background": "#ff00ff"
+                                            }
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "4": {
+                                      "title": "Emne",
+                                      "id": 141,
+                                      "attr": {
+                                        "style": {
+                                          "background": "#ff00ff"
+                                        }
+                                      }
+                                    },
+                                    "5": {
+                                      "title": "Emne",
+                                      "id": 142,
+                                      "attr": {
+                                        "style": {
+                                          "background": "#ff00ff"
+                                        }
+                                      }
+                                    },
+                                    "0.5": {
+                                      "title": "Emne",
+                                      "id": 139,
+                                      "attr": {
+                                        "style": {
+                                          "background": "#ff00ff"
+                                        }
+                                      }
+                                    },
+                                    "0.25": {
+                                      "title": "Emne",
+                                      "id": 140,
+                                      "attr": {
+                                        "style": {
+                                          "background": "#ff00ff"
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                "4": {
+                                  "title": "Emne",
+                                  "id": 146,
+                                  "attr": {
+                                    "style": {
+                                      "background": "#ff00ff"
+                                    }
+                                  }
+                                },
+                                "5": {
+                                  "title": "Emne",
+                                  "id": 147,
+                                  "attr": {
+                                    "style": {
+                                      "background": "#ff00ff"
+                                    }
+                                  }
+                                },
+                                "0.5": {
+                                  "title": "Emne",
+                                  "id": 143,
+                                  "attr": {
+                                    "style": {
+                                      "background": "#ff00ff"
+                                    }
+                                  }
+                                },
+                                "0.25": {
+                                  "title": "Emne",
+                                  "id": 144,
+                                  "ideas": {},
+                                  "attr": {
+                                    "style": {
+                                      "background": "#ff00ff"
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "4": {
+                              "title": "Emne",
+                              "id": 150,
+                              "attr": {
+                                "style": {
+                                  "background": "#ff00ff"
+                                }
+                              }
+                            },
+                            "5": {
+                              "title": "Emne",
+                              "id": 151,
+                              "attr": {
+                                "style": {
+                                  "background": "#ff00ff"
+                                }
+                              }
+                            },
+                            "0.5": {
+                              "title": "Emne",
+                              "id": 148,
+                              "attr": {
+                                "style": {
+                                  "background": "#ff00ff"
+                                }
+                              }
+                            },
+                            "0.25": {
+                              "title": "Emne",
+                              "id": 149,
+                              "attr": {
+                                "style": {
+                                  "background": "#ff00ff"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "4": {
+                          "title": "Emne",
+                          "id": 154,
+                          "attr": {
+                            "style": {
+                              "background": "#ff00ff"
+                            }
+                          }
+                        },
+                        "5": {
+                          "title": "Emne",
+                          "id": 155,
+                          "attr": {
+                            "style": {
+                              "background": "#ff00ff"
+                            }
+                          }
+                        },
+                        "0.5": {
+                          "title": "Emne",
+                          "id": 152,
+                          "attr": {
+                            "style": {
+                              "background": "#ff00ff"
+                            }
+                          }
+                        },
+                        "0.25": {
+                          "title": "Emne",
+                          "id": 153,
+                          "attr": {
+                            "style": {
+                              "background": "#ff00ff"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "4": {
+                      "title": "Emne",
+                      "id": 158,
+                      "attr": {
+                        "style": {
+                          "background": "#ff00ff"
+                        }
+                      }
+                    },
+                    "5": {
+                      "title": "Emne",
+                      "id": 159,
+                      "attr": {
+                        "style": {
+                          "background": "#ff00ff"
+                        }
+                      }
+                    },
+                    "0.5": {
+                      "title": "Emne",
+                      "id": 156,
+                      "attr": {
+                        "style": {
+                          "background": "#ff00ff"
+                        }
+                      }
+                    },
+                    "0.25": {
+                      "title": "Emne",
+                      "id": 157,
+                      "attr": {
+                        "style": {
+                          "background": "#ff00ff"
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Emne",
+                  "id": 162,
+                  "attr": {
+                    "style": {
+                      "background": "#ff00ff"
+                    }
+                  }
+                },
+                "5": {
+                  "title": "Emne",
+                  "id": 163,
+                  "attr": {
+                    "style": {
+                      "background": "#ff00ff"
+                    }
+                  }
+                },
+                "0.5": {
+                  "title": "Emne",
+                  "id": 160,
+                  "attr": {
+                    "style": {
+                      "background": "#ff00ff"
+                    }
+                  }
+                },
+                "0.25": {
+                  "title": "Emne",
+                  "id": 161,
+                  "attr": {
+                    "style": {
+                      "background": "#ff00ff"
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Emne",
+              "id": 55,
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "background": "#ff00ff"
+                }
+              }
+            },
+            "3": {
+              "title": "Emne",
+              "id": 57,
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "background": "#ff00ff"
+                }
+              }
+            },
+            "0.5": {
+              "title": "Emne",
+              "id": 59,
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "background": "#ff00ff"
+                }
+              }
+            },
+            "0.25": {
+              "title": "Emne",
+              "id": 61,
+              "attr": {
+                "style": {
+                  "background": "#ff00ff"
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Emne",
+          "id": 51,
+          "attr": {
+            "style": {
+              "background": "#ff00ff"
+            }
+          }
+        },
+        "3": {
+          "title": "Emne",
+          "id": 53,
+          "attr": {
+            "style": {
+              "background": "#ff00ff"
+            }
+          }
+        },
+        "0.5": {
+          "title": "Emne",
+          "id": 52,
+          "attr": {
+            "style": {
+              "background": "#ff00ff"
+            }
+          }
+        },
+        "0.25": {
+          "title": "Emne",
+          "id": 54,
+          "attr": {
+            "style": {
+              "background": "#ff00ff"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#c0c0c0"
+        }
+      }
+    },
+    "-10": {
+      "title": "Emne",
+      "id": 39,
+      "attr": {
+        "style": {
+          "background": "#ff00ff"
+        }
+      }
+    },
+    "-20": {
+      "title": "Emne",
+      "id": 42,
+      "attr": {
+        "style": {
+          "background": "#ff00ff"
+        }
+      }
+    },
+    "-30": {
+      "title": "Emne",
+      "id": 43,
+      "attr": {
+        "style": {
+          "background": "#ff00ff"
+        }
+      }
+    },
+    "-40": {
+      "title": "Emne",
+      "id": 44,
+      "attr": {
+        "style": {
+          "background": "#ff00ff"
+        }
+      }
+    },
+    "-50": {
+      "title": "Tid",
+      "id": 45,
+      "ideas": {
+        "1": {
+          "title": "Tid><Metermål",
+          "id": 49,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ff00ff"
+        }
+      }
+    }
+  },
+  "attr": {
+    "style": {
+      "background": "#c0c0c0"
+    }
+  },
+  "links": []
+}
